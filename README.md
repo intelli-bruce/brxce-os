@@ -1,6 +1,8 @@
-# BRXCE OS — Agentic Operating System
+# BRXCE OS — Agentic Operating System | Agentic Workflow Framework
 
-> Your business, run by AI agents. Goal-aligned. Self-improving. Human-in-the-loop.
+> Your business, run by agentic workflows. Goal-aligned. Self-improving. Human-in-the-loop.
+
+🇰🇷 [한국어 README](README.ko.md)
 
 **BRXCE OS** is an agentic operating system framework that turns AI agents from chat assistants into goal-driven business operators. Built on real-world experience running a 4-person company with AI agents handling strategy alignment, task management, content pipelines, and decision tracking.
 
