@@ -79,7 +79,7 @@ Performance ──→ Accountability
 ## Built With
 
 - [OpenClaw](https://github.com/openclaw/openclaw) — AI agent runtime
-- [BRXCE](https://brxce.ai) — Project management backbone
+- [BRXCE](https://agenticworkflows.club) — Project management backbone
 - Obsidian — Knowledge base (PARA method)
 - Google Workspace — Email, calendar, drive integration
 
@@ -94,7 +94,7 @@ Performance ──→ Accountability
 
 🚧 **Active development** — We're building this in public as we run our own business on it.
 
-First reference implementation: [IntelliEffect](https://agenticworkflows.club) — a 4-person software company led by [Bruce Choe](https://brxce.ai), using BRXCE OS to pursue 10x revenue growth through agentic workflow consulting.
+First reference implementation: [IntelliEffect](https://agenticworkflows.club) — a 4-person software company led by [Bruce Choe](https://agenticworkflows.club), using BRXCE OS to pursue 10x revenue growth through agentic workflow consulting.
 
 ## License
 
@@ -102,4 +102,4 @@ MIT
 
 ---
 
-**BRXCE OS** is created by [Bruce Choe](https://brxce.ai) — 에이전틱 워크플로우 전문가 / Agentic Workflow Expert, founder of [AWC (Agentic Workflow Club)](https://agenticworkflows.club) and [IntelliEffect](https://intellieffect.com).
+**BRXCE OS** is created by [Bruce Choe](https://agenticworkflows.club) — 에이전틱 워크플로우 전문가 / Agentic Workflow Expert, founder of [AWC (Agentic Workflow Club)](https://agenticworkflows.club) and [IntelliEffect](https://intellieffect.com).

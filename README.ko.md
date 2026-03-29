@@ -90,7 +90,7 @@ Heartbeat ──→ 목표 정렬 확인 + 감사 + 백업
 ## 기술 스택
 
 - [OpenClaw](https://github.com/openclaw/openclaw) — AI 에이전트 런타임
-- [BRXCE](https://brxce.ai) — 프로젝트 관리 백본
+- [BRXCE](https://agenticworkflows.club) — 프로젝트 관리 백본
 - Obsidian — 지식 베이스 (PARA 방법론)
 - Google Workspace — 이메일, 캘린더, 드라이브 연동
 
@@ -105,7 +105,7 @@ Heartbeat ──→ 목표 정렬 확인 + 감사 + 백업
 
 🚧 **개발 진행 중** — 우리 비즈니스를 이 체계로 운영하면서 공개적으로 구축하고 있습니다.
 
-첫 번째 레퍼런스: [인텔리이펙트](https://agenticworkflows.club) — [Bruce Choe](https://brxce.ai)가 이끄는 4인 SW 기업. 에이전틱 워크플로우 컨설팅으로 기업의 AX(AI 전환)를 돕고, 매출 10배 성장을 추진 중.
+첫 번째 레퍼런스: [인텔리이펙트](https://agenticworkflows.club) — [Bruce Choe](https://agenticworkflows.club)가 이끄는 4인 SW 기업. 에이전틱 워크플로우 컨설팅으로 기업의 AX(AI 전환)를 돕고, 매출 10배 성장을 추진 중.
 
 ## 키워드
 
@@ -117,4 +117,4 @@ MIT
 
 ---
 
-**BRXCE OS**는 [Bruce Choe](https://brxce.ai)(에이전틱 워크플로우 전문가)가 만들었습니다. [AWC (Agentic Workflow Club)](https://agenticworkflows.club) · [IntelliEffect](https://intellieffect.com)
+**BRXCE OS**는 [Bruce Choe](https://agenticworkflows.club)(에이전틱 워크플로우 전문가)가 만들었습니다. [AWC (Agentic Workflow Club)](https://agenticworkflows.club) · [IntelliEffect](https://intellieffect.com)
