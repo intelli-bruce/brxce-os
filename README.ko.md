@@ -117,4 +117,4 @@ MIT
 
 ---
 
-**BRXCE OS**는 [Bruce Choe](https://agenticworkflows.club)(에이전틱 워크플로우 전문가)가 만들었습니다. [AWC (Agentic Workflow Club)](https://agenticworkflows.club) · [IntelliEffect](https://intellieffect.com)
+**BRXCE OS**는 [Bruce Choe](https://agenticworkflows.club)(에이전틱 워크플로우로 기업 AX 전환을 구축하는)가 만들었습니다. [AWC (Agentic Workflow Club)](https://agenticworkflows.club) · [IntelliEffect](https://intellieffect.com)
